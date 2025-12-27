@@ -117,15 +117,9 @@ glTranslatef(x, y, z + 1.2f); // 显著提升 UI 高度
 
 ---
 
-## 6. 参考资料
-
- 1.MuJoCo 官方文档：https://mujoco.readthedocs.io/
-
- 2.MuJoCo MPC 开源项目：https://github.com/deepmind/mujoco_mpc
-
- 3.《Model Predictive Control for Robotics》（机器人模型预测控制）
-
- 4.OpenGL 4.6 编程指南（第八版）
-
- 5.基于 MuJoCo 的移动机器人仿真与控制实践教程
-
+## ## 6. 参考资料
+1. MuJoCo官方文档：https://mujoco.readthedocs.io/
+2. MuJoCo MPC GitHub仓库：https://github.com/google-deepmind/mujoco_mpc
+3. LearnOpenGL CN教程：https://learnopengl-cn.github.io/
+4. GLFW官方指南：https://www.glfw.org/docs/latest/
+5. 作业说明书《C++课程大作业：基于MuJoCo MPC的汽车仪表盘可视化系统》
