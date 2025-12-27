@@ -117,7 +117,7 @@ glTranslatef(x, y, z + 1.2f); // 显著提升 UI 高度
 
 ---
 
-## ## 6. 参考资料
+## 6. 参考资料
 1. MuJoCo官方文档：https://mujoco.readthedocs.io/
 2. MuJoCo MPC GitHub仓库：https://github.com/google-deepmind/mujoco_mpc
 3. LearnOpenGL CN教程：https://learnopengl-cn.github.io/
