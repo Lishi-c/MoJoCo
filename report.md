@@ -175,7 +175,8 @@ glEnd();
 4. **交互扩展**：添加鼠标点击交互、多视角切换、数据记录回放等功能。
 
 ---
-###   **7.参考资料** 
+
+##   **7.参考资料** 
 
 1. MuJoCo官方文档：https://mujoco.readthedocs.io/
 2. MuJoCo MPC GitHub仓库：https://github.com/google-deepmind/mujoco_mpc
